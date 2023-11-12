@@ -1,0 +1,4 @@
+uart_bridge/build/*
+!uart_bridge/build/tcl
+!uart_bridge/build/makefile
+
